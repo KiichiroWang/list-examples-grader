@@ -14,3 +14,10 @@ echo 'Finished cloning'
 
 # Then, add here code to compile and run, and do any post-processing of the
 # tests
+
+
+
+2. check if right file submitted
+     find file_path_name
+
+3. 
